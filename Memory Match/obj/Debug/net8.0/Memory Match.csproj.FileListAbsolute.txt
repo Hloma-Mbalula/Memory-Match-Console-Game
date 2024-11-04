@@ -1,0 +1,15 @@
+C:\Users\27682\Desktop\C# Beginner Projects\Memory Match\bin\Debug\net8.0\Memory Match.exe
+C:\Users\27682\Desktop\C# Beginner Projects\Memory Match\bin\Debug\net8.0\Memory Match.deps.json
+C:\Users\27682\Desktop\C# Beginner Projects\Memory Match\bin\Debug\net8.0\Memory Match.runtimeconfig.json
+C:\Users\27682\Desktop\C# Beginner Projects\Memory Match\bin\Debug\net8.0\Memory Match.dll
+C:\Users\27682\Desktop\C# Beginner Projects\Memory Match\bin\Debug\net8.0\Memory Match.pdb
+C:\Users\27682\Desktop\C# Beginner Projects\Memory Match\obj\Debug\net8.0\Memory Match.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27682\Desktop\C# Beginner Projects\Memory Match\obj\Debug\net8.0\Memory Match.AssemblyInfoInputs.cache
+C:\Users\27682\Desktop\C# Beginner Projects\Memory Match\obj\Debug\net8.0\Memory Match.AssemblyInfo.cs
+C:\Users\27682\Desktop\C# Beginner Projects\Memory Match\obj\Debug\net8.0\Memory Match.csproj.CoreCompileInputs.cache
+C:\Users\27682\Desktop\C# Beginner Projects\Memory Match\obj\Debug\net8.0\Memory Match.sourcelink.json
+C:\Users\27682\Desktop\C# Beginner Projects\Memory Match\obj\Debug\net8.0\Memory Match.dll
+C:\Users\27682\Desktop\C# Beginner Projects\Memory Match\obj\Debug\net8.0\refint\Memory Match.dll
+C:\Users\27682\Desktop\C# Beginner Projects\Memory Match\obj\Debug\net8.0\Memory Match.pdb
+C:\Users\27682\Desktop\C# Beginner Projects\Memory Match\obj\Debug\net8.0\Memory Match.genruntimeconfig.cache
+C:\Users\27682\Desktop\C# Beginner Projects\Memory Match\obj\Debug\net8.0\ref\Memory Match.dll
